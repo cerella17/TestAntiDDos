@@ -14,7 +14,7 @@ var (
     requestCounts = make(map[string]int) //traccia il numero di richieste per IP
     mu            sync.Mutex //protegge l'accesso a requestCounts
     whitelist = map[string]bool{
-		"127.0.0.1":true,}
+		"127.0.0.1":true,"REMOVED":true,}
     blacklist = map[string]bool{}
 )
 
