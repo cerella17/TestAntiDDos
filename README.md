@@ -112,8 +112,8 @@ This project is a backend solution to mitigate and monitor Distributed Denial of
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/anti-ddos-project.git
-   cd anti-ddos-project
+   git clone https://github.com/cerella17/TestAntiDDos.git
+   cd TestAntiDDos
    ```
 
 2. Install dependencies:
